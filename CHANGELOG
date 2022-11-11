@@ -1,0 +1,6 @@
+1. syntax of solidity
+2. the way to initWeb3 https://github.com/dappuniversity/election/issues/39#issuecomment-754867364
+3. the way to load account data https://ethereum.stackexchange.com/questions/92095/web3-current-best-practice-to-connect-metamask-to-chrome
+4. fix multiple render  https://github.com/dappuniversity/election/issues/2#issuecomment-421525991
+
+TODO: sometimes render delay  https://github.com/dappuniversity/election/issues/24  maybe will not fix, PR is welcome
